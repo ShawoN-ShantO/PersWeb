@@ -1,0 +1,187 @@
+body{
+  margin: 0 auto;
+  font-family: 'Carter One', cursive;
+  text-align: center;
+  background-color: #F0F0F0;
+}
+.topcontainer{
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottomcontainer{
+
+}
+.profile{
+  margin: 10px 0;
+}
+.intro{
+  width: auto;
+}
+hr{
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 50px auto;
+}
+h1{
+   font-family: 'Sacramento', cursive;
+   color: #66BFBF;
+   font-size: 90px;
+   margin-top: 50px;
+   position: relative;
+   top: 100px;
+   text-align: center;
+}
+h2{
+  font-family: 'Carter One', cursive;
+  color: #66BFBF;
+  line-height: 2;
+  font-size: 2.5rem;
+  position: static;
+}
+h3{
+  color: #11999E;
+  padding-bottom: 10px;
+  font-size: 1.8rem;
+}
+p{
+  font-family: 'Carter One', cursive;
+  line-height: 2;
+}
+.Shawon{
+  width: 300px;
+  height: 300px;
+}
+.skills{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.para{
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+
+}
+.icon1{
+  display: inline-block;
+  width: 600px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+}
+.mechicon{
+  line-height: 2;
+  padding-right: 10px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.webdevicon{
+  padding-left: 10px;
+  line-height: 2;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.footer-link{
+  color: #11999E;
+}
+.contact-me{
+  text-align: center;
+}
+a{
+  color: white;
+  font-family: 'Carter One', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+}
+.topcontainer{
+}
+.middlecontainer{
+}
+.bottom-container{
+  color: white;
+  background-color: #66BFBF;
+  padding: 50px 0px 20px;
+}
+.footer-link{
+  color: white;
+}
+.btn{
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  padding: 15px;
+  text-shadow: 7px 7px 9px rgba(129, 30, 30, 1);
+  -webkit-border-radius: 12.972972972972974px;
+  -moz-border-radius: 12.972972972972974px;
+  border-radius: 12.972972972972974px;
+  background: rgb(71, 195, 152);
+  background: -moz-linear-gradient(54deg, rgb(71, 195, 152) 41%, rgb(14, 152, 255) 58%);
+  background: -webkit-linear-gradient(54deg, rgb(71, 195, 152) 41%, rgb(14, 152, 255) 58%);
+  background: -o-linear-gradient(54deg, rgb(71, 195, 152) 41%, rgb(14, 152, 255) 58%);
+  background: -ms-linear-gradient(54deg, rgb(71, 195, 152) 41%, rgb(14, 152, 255) 58%);
+  background: linear-gradient(324deg, rgb(71, 195, 152) 41%, rgb(14, 152, 255) 58%);
+  -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+  box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+}
+
+/*
+ .btn{
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8;
+  color: #FFFFFF;
+  font-family: Sacramento;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  box-shadow: 3px 5px 51px 32px #0059A0;
+  -webkit-box-shadow: 3px 5px 51px 32px #0059A0;
+  -moz-box-shadow: 3px 5px 51px 32px #0059A0;
+  text-shadow: solid #0059A0 8px;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*
+.btn:hover {
+   border: inset #DD380D 1px;
+   background: #AD46C9;
+   background-image: -webkit-linear-gradient(top, #AD46C9, #3DF6F6);
+   background-image: -moz-linear-gradient(top, #AD46C9, #3DF6F6);
+   background-image: -ms-linear-gradient(top, #AD46C9, #3DF6F6);
+   background-image: -o-linear-gradient(top, #AD46C9, #3DF6F6);
+   background-image: linear-gradient(to bottom, #AD46C9, #3DF6F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+*/
+/*
+.topcloud{
+  position: absolute;
+  margin-top: 0;
+  width: 10%;
+  right: 200px;
+  top: 300px;
+}
+.botcloud{
+  margin: 0;
+  position: absolute;
+  width: 10%;
+  left: 200px;
+  top: 300px;
+}
+*/
